@@ -4,6 +4,7 @@ So, promoted tweets are pretty annoying. Good thing as developers, we know how t
 ---
 
 > **_If you're a dev, you'll know how to use this. Use this at your own risk._**
+> **_If you know about Dev-tools in chrome, or firefox, then I think you can figure out the rest._**
 
 ---
 
